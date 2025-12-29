@@ -1,0 +1,55 @@
+{
+    "multi_id": "0012",
+    "created_at": "2025-11-29T16:13:03.122939",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Bronze/Bronze Shoes",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Shoes\\Bronze Shoes Common.png",
+            "text": "=== Scan ID: 0089 ===\n\n\n=== Item Header ===\nBronze Shoes\n\n=== Description ===\nShoes made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nSound Coefficient : 40%\nMax HP : 60\n\nDEF :15\n\nMax HP : 3%\n\nLeg Resilience : 60\n\n=== Others ===\n0.45 %™ 2,000 / 2,000\n\n=== Quality ===\nCommon Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:13:10.400653",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Shoes\\Bronze Shoes Epic.png",
+            "text": "=== Scan ID: 0090 ===\n\n\n=== Item Header ===\nBronze Shoes\n\n=== Description ===\nShoes made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nSound Coefficient : 40%\nMax HP : 72\n\nDEF :18\n\nMax HP : 3.6%\nLeg Resilience : 72\n\n=== Others ===\n0.45 3™ 5,600 / 3,600\n\n=== Quality ===\nEpic Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:13:16.121028",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Shoes\\Bronze Shoes Excellent.png",
+            "text": "=== Scan ID: 0091 ===\n\n\n=== Item Header ===\nBronze Shoes\n\n=== Description ===\nShoes made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nSound Coefficient : 40%\nMax HP : 69\n\nDEF : 17.2\n\nMax HP : 3.4%\nLeg Resilience : 69\n\n=== Others ===\n0.45 3& 5,200 / 3,200\n\n=== Quality ===\nExcellent Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:13:21.878398",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Shoes\\Bronze Shoes Fine.png",
+            "text": "=== Scan ID: 0092 ===\n\n\n=== Item Header ===\nBronze Shoes\n\n=== Description ===\nShoes made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nSound Coefficient : 40%\nMax HP : 66\n\nDEF :16.5\n\nMax HP : 3.3%\nLeg Resilience : 66\n\n=== Others ===\n0.45 2,800 / 2,800\n\n=== Quality ===\nFine Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:13:27.727933",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Shoes\\Bronze Shoes Good.png",
+            "text": "=== Scan ID: 0093 ===\n\n\n=== Item Header ===\nBronze Shoes\n\n=== Description ===\nShoes made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nSound Coefficient : 40%\nMax HP : 63\n\nDEF :15.7\n\nMax HP : 3.1%\nLeg Resilience : 63\n\n=== Others ===\n0.45 “2,400 / 2,400\n\n=== Quality ===\nGood Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:13:33.499953",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Shoes\\Bronze Shoes Legendary.png",
+            "text": "=== Scan ID: 0094 ===\n\n\n=== Item Header ===\nBronze Shoes\n\n=== Description ===\nShoes made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nSound Coefficient : 40%\nMax HP: 75\n\nDEF : 18.8\n\nMax HP : 3.7%.\nLeg Resilience : 75\n\n=== Others ===\n0.45 4,000 / 4,000\n\n=== Quality ===\nLegendary Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:13:39.365110",
+            "success": true
+        }
+    ]
+}

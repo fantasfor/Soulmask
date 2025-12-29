@@ -1,0 +1,55 @@
+{
+    "multi_id": "0013",
+    "created_at": "2025-11-30T15:23:17.716221",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Archaic/Archaic Ring",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Ring\\Archaic Ring Common.png",
+            "text": "=== Scan ID: 0271 ===\n\n\n=== Item Header ===\nArchaic Ring\n\n=== Description ===\nAring left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n¢ Stats\nMax HP : 320\nATK: 32\nArm Resilience : 160\nDMG Increase : 5%\nCrit :5%\nHeat-proof: 8\nPoison-proof : 4%\n\n=== Others ===\n0.2 4,000 / 4,000\n\n=== Quality ===\nCommon Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:23:25.425047",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Ring\\Archaic Ring Epic.png",
+            "text": "=== Scan ID: 0272 ===\n\n\n=== Item Header ===\nArchaic Ring\n\n=== Description ===\nAring left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 436.3\n\nATK: 44.8\n\nArm Resilience : 221.3\nAttack Speed : 6.7%\n\nCrit DMG Increase : 6.7%\nRadiation-proof : 5.2%\nMax Load : 15.7\n\n=== Others ===\n0.2 %#7,200/7,200\n\n=== Quality ===\nEpic Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:23:31.361872",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Ring\\Archaic Ring Excellent.png",
+            "text": "=== Scan ID: 0273 ===\n\n\n=== Item Header ===\nArchaic Ring\n\n=== Description ===\nAring left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n+ Stats\nMax HP : 388.1\nATK: 40.7\nArm Resilience : 206.6\nDMG Increase : 6.4%\nCrit DMG Increase : 6.4%\nHeat-proof : 10.4\nSound Coefficient : -5.2%\n\n=== Others ===\n0.2 6,400 / 6,400\n\n=== Quality ===\nExcellent Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:23:37.312812",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Ring\\Archaic Ring Fine.png",
+            "text": "=== Scan ID: 0274 ===\n\n\n=== Item Header ===\nArchaic Ring\n\n=== Description ===\nAring left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\n\nMax HP : 355\nATK: 37.7\n\nArm Resilience : 186.7\nATK: 5.7%\n\nCrit : 5.7%\n\nSound Coefficient : -4.4%\nHeat-proof : 8.8\n\n=== Others ===\n0.2 5,600 /5,600\n\n=== Quality ===\nFine Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:23:43.126456",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Ring\\Archaic Ring Good.png",
+            "text": "=== Scan ID: 0275 ===\n\n\n=== Item Header ===\nArchaic Ring\n\n=== Description ===\nAring left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\n\nMax HP : 351.4\n\nATK: 32.8\n\nArm Resilience : 173\nAttack Speed : 5.5%.\n\nCrit DMG Increase : 5.5%.\nRadiation-proof : 4.3%\nConcealment : 12.8\n\n=== Others ===\n0.2 4,800 / 4,800\n\n=== Quality ===\nGood Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:23:49.085755",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Ring\\Archaic Ring Legendary.png",
+            "text": "=== Scan ID: 0276 ===\n\n\n=== Item Header ===\nArchaic Ring\n\n=== Description ===\nAring left over by the archaic ci\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\n\nMax HP : 476.4\n\nATK: 44.8\n\nArm Resilience : 238.5\nATK: 7.3%\n\nCrit : 7.3%\nConcealment : 18\nChill-proof : 9\n\n=== Others ===\n0.2 %™ 8,000/ 8,000\n\n=== Quality ===\nLegendary Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:23:54.893121",
+            "success": true
+        }
+    ]
+}

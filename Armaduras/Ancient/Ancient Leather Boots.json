@@ -1,0 +1,55 @@
+{
+    "multi_id": "0003",
+    "created_at": "2025-11-30T15:08:18.122306",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Ancient/Ancient Leather Boots",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Ancient\\Ancient Leather Boots\\Ancient Leather Boots Common.png",
+            "text": "=== Scan ID: 0217 ===\n\n\n=== Item Header ===\nAncient Leather Boots\n\n=== Description ===\nA pair of boots crafted by the Ancient Master\nCraftsman.\n\n=== Clasification ===\n| Classification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP: 240\n\nDEF : 24\n\nLeg Resilience : 120\n\nCrit DMG Reduction : 4%\nCrit Resist : 4%\n\nMax Load : 10\nRadiation-proof : 3%\n\n=== Others ===\n0.6 “™ 5,000 / 3,000\n\n=== Quality ===\nCommon Gear crafted by Ancient Master Craftsman",
+            "timestamp": "2025-11-30T15:08:27.020310",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Ancient\\Ancient Leather Boots\\Ancient Leather Boots Epic.png",
+            "text": "=== Scan ID: 0218 ===\n\n\n=== Item Header ===\nAncient Leather Boots\n\n=== Description ===\nA pair of boots crafted by the Ancient Master\nCraftsman.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 325.3\n\nDEF : 32\n\nLeg Resilience : 157.7\n\nDMG Reduction : 5.3%\nCrit DMG Reduction : 5.3%\nChill-proof : 6.8\n\nMax Load : 13.6\n\n=== Others ===\n0.6 “5,400 75,400\n\n=== Quality ===\nEpic Gear crafted by Ancient Master Craftsman",
+            "timestamp": "2025-11-30T15:08:32.821032",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Ancient\\Ancient Leather Boots\\Ancient Leather Boots Excellent.png",
+            "text": "=== Scan ID: 0219 ===\n\n\n=== Item Header ===\nAncient Leather Boots\n\n=== Description ===\nA pair of boots crafted by the Ancient Master\nCraftsman.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 295.8\nDEF : 29.8\n\nLeg Resilience : 145.9\nCrit DMG Reduction : 5%\nMax HP : 5%\nHeat-proof : 7.2\n\nMax Load : 12.1\n\n=== Others ===\n0.6 4,800 / 4,800\n\n=== Quality ===\nExcellent Gear crafted by Ancient Master Craftsman",
+            "timestamp": "2025-11-30T15:08:38.889330",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Ancient\\Ancient Leather Boots\\Ancient Leather Boots Fine.png",
+            "text": "=== Scan ID: 0220 ===\n\n\n=== Item Header ===\nAncient Leather Boots\n\n=== Description ===\nA pair of boots crafted by the Ancient Master\nCraftsman.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 284.9\n\nDEF : 27.6\n\nLeg Resilience : 135.7\nCrit Resist : 4.7%\nMax HP : 4.7%.\n\nMax Stamina : 11.6\nChill-proof: 5.8\n\n=== Others ===\n0.6 4,200 / 4,200\n\n=== Quality ===\nFine Gear crafted by Ancient Master Craftsman",
+            "timestamp": "2025-11-30T15:08:44.755562",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Ancient\\Ancient Leather Boots\\Ancient Leather Boots Good.png",
+            "text": "=== Scan ID: 0221 ===\n\n\n=== Item Header ===\nAncient Leather Boots\n\n=== Description ===\nA pair of boots crafted by the Ancient Master\nCraftsman.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 245.8\nDEF : 25.6\n\nLeg Resilience : 124.5\nDEF : 4.3%\nRESIL-Down DEF : 4.5%\nHeat-proof : 6.6\nConcealment : 11\n\n=== Others ===\n0.6 S™ 5,600 / 3,600\n\n=== Quality ===\nGood Gear crafted by Ancient Master Craftsman",
+            "timestamp": "2025-11-30T15:08:50.820053",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Ancient\\Ancient Leather Boots\\Ancient Leather Boots Legendary.png",
+            "text": "=== Scan ID: 0222 ===\n\n\n=== Item Header ===\nAncient Leather Boots\n\n=== Description ===\nA pair of boots crafted by the Ancient Master\nCraftsman.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 341.2\n\nDEF : 33.7\n\nLeg Resilience : 173.8\nDMG Reduction : 5.7%\nDEF : 5.7%\n\nSound Coefficient : -4.3%\nMax Load : 14.2\n\n=== Others ===\n0.6 “® 6,000 / 6,000\n\n=== Quality ===\nLegendary Gear crafted by Ancient Master Craftsman",
+            "timestamp": "2025-11-30T15:08:56.787076",
+            "success": true
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "multi_id": "0008",
+    "created_at": "2025-11-30T15:15:43.731919",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Archaic/Archaic Armor",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Armor\\Archaic Armor Common.png",
+            "text": "=== Scan ID: 0241 ===\n\n\n=== Item Header ===\n* Archaic Armor\n\n=== Description ===\nCostume left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 320\nDEF : 32\n\nTorso Resilience : 320\nCrit DMG Reduction : 5%\nMax HP : 5%\nPoison-proof : 4%\nRadiation-proof : 4%\n\n=== Others ===\n0.2 4,000 / 4,000\n\n=== Quality ===\nCommon Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:15:51.655876",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Armor\\Archaic Armor Epic.png",
+            "text": "=== Scan ID: 0242 ===\n\n\n=== Item Header ===\n* “Archaic Armor\n\n=== Description ===\nCostume left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n_ Stats\n\nMax HP : 436\n| DEF: 43.1\nTorso Resilience : 417.2\nMax Resilience : 20.6\nCrit DMG Reduction : 6.9%\nSound Coefficient : -5.6%\nConcealment : 16.7\n\n=== Others ===\n0.2 7,200 /7,200\n\n=== Quality ===\nEpic Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:15:57.550080",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Armor\\Archaic Armor Excellent.png",
+            "text": "=== Scan ID: 0243 ===\n\n\n=== Item Header ===\nArchaic Armor\n\n=== Description ===\nCostume left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 393.6\nDEF : 38.5\nTorso Resilienct\n\n9.4.2\nMax Resilience : 19.4\nRESIL-Down DEF : 6.5%\nSound Coefficient : -4.9%\nConcealment : 14.8\n\n=== Others ===\n0.2 6,400 / 6,400\n\n=== Quality ===\nExcellent Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:16:03.565560",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Armor\\Archaic Armor Fine.png",
+            "text": "=== Scan ID: 0244 ===\n\n\n=== Item Header ===\nH i\n* Archaic Armor\n\n=== Description ===\nCostume left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n@ Stats\n\nMax HP : 380.6\n\nDEF: 35.5\n\nTorso Resilience : 364.1\nDEF : 5.6%\n\nMax HP: 5.6%\nConcealment : 13.6\nRadiation-proof : 4.5%\n\n=== Others ===\n0.2 5,600 / 5,600\n\n=== Quality ===\nFine Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:16:09.614133",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Armor\\Archaic Armor Good.png",
+            "text": "=== Scan ID: 0245 ===\n\n\n=== Item Header ===\nArchaic Armor\n\n=== Description ===\nCostume left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 332.4\n\nDEF : 34.9\n\nTorso Resilience : 323.5\nMax HP: 5.2%\n\nCrit DMG Reduction : 5.2%\nRadiation-proof : 4.1%.\nSound Coefficient : -4.1%\n\n=== Others ===\n0.2 4,800 / 4,800\n\n=== Quality ===\nGood Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:16:15.719849",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Armor\\Archaic Armor Legendary.png",
+            "text": "=== Scan ID: 0246 ===\n\n\n=== Item Header ===\nArchaic Armor\n\n=== Description ===\nCostume left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n+ Stats\nMax HP : 459.3\nDEF : 46.5\nTorso Resilience : 457.5\nCrit Resist : 7%\nCrit DMG Reduction : 7%\nHeat-proof : 11.4\nChill-proof : 8.6\n\n=== Others ===\n0.2 “™8,000/ 8,000\n\n=== Quality ===\nLegendary Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:16:21.597666",
+            "success": true
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "multi_id": "0010",
+    "created_at": "2025-11-30T15:18:31.966425",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Archaic/Archaic Gloves",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Gloves\\Archaic Gloves Common.png",
+            "text": "=== Scan ID: 0253 ===\n\n\n=== Item Header ===\nArchaic Gloves\n\n=== Description ===\nGloves left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\n\nMax HP : 320\n\nATK: 32\n\nArm Resilience : 160\nCrit DMG Increase : 5%\nAttack Speed : 5%\nConcealment : 12\nRadiation-proof : 4%\n\n=== Others ===\n0.4 4,000 / 4,000\n\n=== Quality ===\nCommon Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:18:40.037463",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Gloves\\Archaic Gloves Epic.png",
+            "text": "=== Scan ID: 0254 ===\n\n\n=== Item Header ===\nArchaic Gloves\n\n=== Description ===\nGloves left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP: 440.7\nATK: 44\n\nArm Resilience : 210.9\nAttack Speed : 6.5%\nCrit: 6.5%\nPoison-proof : 5.5%\nSound Coefficient : -5.5%\n\n=== Others ===\n0.4 %7,200/7,200\n\n=== Quality ===\nEpic Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:18:45.867661",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Gloves\\Archaic Gloves Excellent.png",
+            "text": "=== Scan ID: 0255 ===\n\n\n=== Item Header ===\nArchaic Gloves\n\n=== Description ===\nGloves left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 400.6\n\nATK: 40.2\n\nArm Resilience : 194.8\nCrit : 6.1%\n\nCrit DMG Increase : 6.1%\nRadiation-proof : 4.9%\nConcealment : 14.8\n\n=== Others ===\n0.4 6,400 / 6,400\n\n=== Quality ===\nExcellent Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:18:51.767159",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Gloves\\Archaic Gloves Fine.png",
+            "text": "=== Scan ID: 0256 ===\n\n\n=== Item Header ===\nArchaic Gloves\n\n=== Description ===\nGloves left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n+ Stats\nMax HP : 363.3\nATK: 35.4\nArm Resilience : 179.9\nATK: 5.8%\nAttack Speed : 5.8%\nHeat-proof : 9.2\nMax Load : 15.9\n\n=== Others ===\n0.4 5,600 /5,600\n\n=== Quality ===\nFine Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:18:57.728073",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Gloves\\Archaic Gloves Good.png",
+            "text": "=== Scan ID: 0257 ===\n\n\n=== Item Header ===\nArchaic Gloves\n\n=== Description ===\nGloves left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 341.2\n\nATK: 33.4\n\nArm Resilience : 171.2\nCrit DMG Increase : 5.4%.\nCrit 5.4%\n\nConcealment : 13\nChill-proof : 6.5\n\n=== Others ===\n0.4 4,800 / 4,800\n\n=== Quality ===\nGood Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:19:03.623488",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Archaic\\Archaic Gloves\\Archaic Gloves Legendary.png",
+            "text": "=== Scan ID: 0258 ===\n\n\n=== Item Header ===\nArchaic Gloves\n\n=== Description ===\nGloves left over by the archaic civilization.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 463.5\n\nATK: 47\n\nArm Resilience : 231.4\nDMG Increase : 7%\nATK: 7%\n\nMax Load : 18\n\nSound Coefficient : -6%\n\n=== Others ===\n0.4 8,000 / 8,000\n\n=== Quality ===\nLegendary Gear crafted by Archaic Master Craftsman",
+            "timestamp": "2025-11-30T15:19:09.529845",
+            "success": true
+        }
+    ]
+}

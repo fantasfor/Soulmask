@@ -1,0 +1,55 @@
+{
+    "multi_id": "0002",
+    "created_at": "2025-11-29T15:51:19.887658",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Beast/Beast Bone Ring",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Beast\\Beast Bone Ring\\Beast Bone Ring Common.png",
+            "text": "=== Scan ID: 0029 ===\n\n\n=== Item Header ===\nBeast Bone Ring\n\n=== Description ===\nAn exquisite ring made of beast bone.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\nMax HP : 60\nATK:10\nArm Resilience : 60\n\n=== Others ===\n0.08 3% 1,500 /1,500\n\n=== Quality ===\nCommon Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T15:51:34.946122",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Beast\\Beast Bone Ring\\Beast Bone Ring Epic.png",
+            "text": "=== Scan ID: 0030 ===\n\n\n=== Item Header ===\nBeast Bone Ring\n\n=== Description ===\nAn exquisite ring made of beast bone.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\nMax HP: 72\nATK: 12\nArm Resilience : 72\n\n=== Others ===\n0.08 “& 2,700 / 2,700\n\n=== Quality ===\nEpic Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T15:51:40.515208",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Beast\\Beast Bone Ring\\Beast Bone Ring Excellent.png",
+            "text": "=== Scan ID: 0031 ===\n\n\n=== Item Header ===\nBeast Bone Ring\n\n=== Description ===\nAn exquisite ring made of beast bone.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\n\nMax HP : 69\nATK: 115\nArm Resilience : 69\n\n=== Others ===\n0.08 “2,400 / 2,400\n\n=== Quality ===\nExcellent Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T15:51:46.002078",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Beast\\Beast Bone Ring\\Beast Bone Ring Fine.png",
+            "text": "=== Scan ID: 0032 ===\n\n\n=== Item Header ===\nBeast Bone Ring\n\n=== Description ===\nAn exquisite ring made of beast bone.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 66\nATK: 11\nArm Resilience : 66\n\n=== Others ===\n0.08 “2,100 / 2,100\n\n=== Quality ===\nFine Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T15:51:51.753166",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Beast\\Beast Bone Ring\\Beast Bone Ring Good.png",
+            "text": "=== Scan ID: 0033 ===\n\n\n=== Item Header ===\nBeast Bone Ring\n\n=== Description ===\nAn exquisite ring made of beast bone.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\n\nMax HP : 63\nATK:10.5\nArm Resilience : 63\n\n=== Others ===\n0.08 %% 1,800 /1,800\n\n=== Quality ===\nGood Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T15:51:57.303903",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Beast\\Beast Bone Ring\\Beast Bone Ring Legendary.png",
+            "text": "=== Scan ID: 0034 ===\n\n\n=== Item Header ===\nBeast Bone Ring\n\n=== Description ===\nAn exquisite ring made of beast bone.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\n\nMax HP: 75\nATK:12.5\nArm Resilience : 75\n\n=== Others ===\n0.08 “3,000 / 3,000\n\n=== Quality ===\nLegendary Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T15:52:03.114639",
+            "success": true
+        }
+    ]
+}

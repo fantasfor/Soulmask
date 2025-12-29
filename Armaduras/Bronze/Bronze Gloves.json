@@ -1,0 +1,55 @@
+{
+    "multi_id": "0008",
+    "created_at": "2025-11-29T16:06:26.591360",
+    "folder": "C:/Users/willi/Documents/ShareX/Screenshots/2025-11/Bronze/Bronze Gloves",
+    "items": [
+        {
+            "id": "0001",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Gloves\\Bronze Gloves Common.png",
+            "text": "=== Scan ID: 0065 ===\n\n\n=== Item Header ===\nBronze Gloves\n\n=== Description ===\nGloves made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\nMax HP : 60\nATK: 15\nMax HP : 3%\nArm Resilience : 60\n\n=== Others ===\n0.3 “™ 2,000/ 2,000\n\n=== Quality ===\nCommon Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:06:33.770672",
+            "success": true
+        },
+        {
+            "id": "0002",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Gloves\\Bronze Gloves Epic.png",
+            "text": "=== Scan ID: 0066 ===\n\n\n=== Item Header ===\nBronze Gloves\n\n=== Description ===\nGloves made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n\n\n=== Others ===\n0.3 3,600 / 3,600\n\n=== Quality ===\nEpic Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:06:39.466879",
+            "success": true
+        },
+        {
+            "id": "0003",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Gloves\\Bronze Gloves Excellent.png",
+            "text": "=== Scan ID: 0067 ===\n\n\n=== Item Header ===\nBronze Gloves\n\n=== Description ===\nGloves made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\n# Stats\nMax HP : 69\nATK 217.2\nMax HP : 3.4%\nArm Resilience : 69\n\n=== Others ===\n0.3 SH 5,200 / 3,200\n\n=== Quality ===\nExcellent Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:06:45.038316",
+            "success": true
+        },
+        {
+            "id": "0004",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Gloves\\Bronze Gloves Fine.png",
+            "text": "=== Scan ID: 0068 ===\n\n\n=== Item Header ===\nBronze Gloves\n\n=== Description ===\nGloves made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\nMax HP : 66\nATK:16.5\nMax HP : 3.3%\nArm Resilience : 66\n\n=== Others ===\n0.3 2,800 / 2,800\n\n=== Quality ===\nFine Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:06:50.845347",
+            "success": true
+        },
+        {
+            "id": "0005",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Gloves\\Bronze Gloves Good.png",
+            "text": "=== Scan ID: 0069 ===\n\n\n=== Item Header ===\nBronze Gloves\n\n=== Description ===\nGloves made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\nMax HP : 63\nATK:15.7\nMax HP : 3.1%\nArm Resilience : 63\n\n=== Others ===\n0.3 2,400 / 2,400\n\n=== Quality ===\nGood Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:06:56.256677",
+            "success": true
+        },
+        {
+            "id": "0006",
+            "with_ref": true,
+            "image": "C:\\Users\\willi\\Documents\\ShareX\\Screenshots\\2025-11\\Bronze\\Bronze Gloves\\Bronze Gloves Legendary.png",
+            "text": "=== Scan ID: 0070 ===\n\n\n=== Item Header ===\nBronze Gloves\n\n=== Description ===\nGloves made of bronze.\n\n=== Clasification ===\nClassification: Armor\n\n=== Stats ===\nStats\nMax HP: 75\nATK:18.8\nMax HP : 3.7%.\nArm Resilience : 75\n\n=== Others ===\n0.3 4,000 / 4,000\n\n=== Quality ===\nLegendary Gear crafted by Tribal Master Craftsman",
+            "timestamp": "2025-11-29T16:07:01.728289",
+            "success": true
+        }
+    ]
+}
