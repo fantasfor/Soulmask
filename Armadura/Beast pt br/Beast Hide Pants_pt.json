@@ -1,0 +1,156 @@
+{
+  "slot": "",
+  "nome": "Calças de Pele de Fera",
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 120.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 10.0
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 120.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 144.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 12.0
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 144.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 138.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 11.5
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 138.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 132.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 11.0
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 152.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 126.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 10.5
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 126.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 150.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 12.5
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 150.0
+        }
+      }
+    }
+  ]
+}

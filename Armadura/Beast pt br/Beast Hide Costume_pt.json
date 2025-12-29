@@ -1,0 +1,156 @@
+{
+  "slot": "",
+  "nome": "Traje de Pele de Fera",
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 160.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 10.0
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 160.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 192.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 12.0
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 192.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 184.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 11.5
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 184.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 176.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 11.0
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 176.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 168.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 10.5
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 168.0
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "coeficiente_de_som": {
+          "label": "Coeficiente de Som",
+          "valor": 10.0
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 200.0
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 12.5
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 200.0
+        }
+      }
+    }
+  ]
+}
