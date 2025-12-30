@@ -1,0 +1,234 @@
+{
+  "nome": "Ferro. Calças de Couro de Macaco Gigante",
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 240.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 20.0,
+          "tipo": "flat"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.0,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 4.0,
+          "tipo": "percent"
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 240.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 288.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 24.0,
+          "tipo": "flat"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.8,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 4.8,
+          "tipo": "percent"
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 288.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 276.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 23.0,
+          "tipo": "flat"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.6,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 4.6,
+          "tipo": "percent"
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 276.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 264.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 22.0,
+          "tipo": "flat"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.4,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 4.4,
+          "tipo": "percent"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 252.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 21.0,
+          "tipo": "flat"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.2,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 4.2,
+          "tipo": "percent"
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 252.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 300.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 25.0,
+          "tipo": "flat"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 5.0,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 5.0,
+          "tipo": "percent"
+        },
+        "resiliência_da_perna": {
+          "label": "Resiliência da Perna",
+          "valor": 300.0,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}
