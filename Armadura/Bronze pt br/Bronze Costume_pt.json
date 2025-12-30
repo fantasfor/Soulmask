@@ -1,0 +1,209 @@
+{
+  "nome": "Traje de Bronze",
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 240.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 15.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 3.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 240.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 288.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 18.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 3.6,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 288.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 276.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 17.2,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 3.4,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 276.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 264.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 16.5,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 3.3,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 264.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 252.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 15.7,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 3.1,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 252.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 300.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 18.8,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 3.7,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 300.0,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}

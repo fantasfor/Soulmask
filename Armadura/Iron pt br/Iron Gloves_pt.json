@@ -1,0 +1,209 @@
+{
+  "nome": "Luvas de Ferro",
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 80.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 20.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.0,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 80.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 96.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 24.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.8,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.8,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 96.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 92.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 23.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.6,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.6,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 92.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 88.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 22.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.4,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.4,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 88.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 84.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 21.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.2,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.2,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 84.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 100.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 25.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 5.0,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 5.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 100.0,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}
