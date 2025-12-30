@@ -1,0 +1,503 @@
+{
+  "nome": "Ferro. Colar de Macaco Gigante",
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 120.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 20.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.0,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.0,
+          "tipo": "percent"
+        },
+        "resiliência_da_cabeça": {
+          "label": "Resiliência da Cabeça",
+          "valor": 120.0,
+          "tipo": "flat"
+        }
+      },
+      "set_bonus": {
+        "set_id": "giantape",
+        "set_label": "Giant Ape",
+        "observacao_6p": "",
+        "bonuses": [
+          {
+            "pieces": 2,
+            "stat": "stamina_recovery",
+            "label": "Recuperação de Vigor",
+            "valor": 15.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_resilience",
+            "label": "Resiliência Máxima",
+            "valor": 24.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_load",
+            "label": "Carga Máxima",
+            "valor": 60.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "max_hp",
+            "label": "PV Max",
+            "valor": 5.0,
+            "tipo": "percent"
+          },
+          {
+            "pieces": 6,
+            "stat": "def",
+            "label": "DEF",
+            "valor": 40.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "crit_dmg_increase",
+            "label": "Aumento de Dano Crít",
+            "valor": 40.0,
+            "tipo": "percent"
+          }
+        ]
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 144.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 24.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.8,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.8,
+          "tipo": "percent"
+        },
+        "resiliência_da_cabeça": {
+          "label": "Resiliência da Cabeça",
+          "valor": 144.0,
+          "tipo": "flat"
+        }
+      },
+      "set_bonus": {
+        "set_id": "giantape",
+        "set_label": "Giant Ape",
+        "observacao_6p": "",
+        "bonuses": [
+          {
+            "pieces": 2,
+            "stat": "stamina_recovery",
+            "label": "Recuperação de Vigor",
+            "valor": 15.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_resilience",
+            "label": "Resiliência Máxima",
+            "valor": 24.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_load",
+            "label": "Carga Máxima",
+            "valor": 60.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "max_hp",
+            "label": "PV Max",
+            "valor": 5.0,
+            "tipo": "percent"
+          },
+          {
+            "pieces": 6,
+            "stat": "def",
+            "label": "DEF",
+            "valor": 40.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "crit_dmg_increase",
+            "label": "Aumento de Dano Crít",
+            "valor": 40.0,
+            "tipo": "percent"
+          }
+        ]
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 138.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 23.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.6,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.6,
+          "tipo": "percent"
+        },
+        "resiliência_da_cabeça": {
+          "label": "Resiliência da Cabeça",
+          "valor": 138.0,
+          "tipo": "flat"
+        }
+      },
+      "set_bonus": {
+        "set_id": "giantape",
+        "set_label": "Giant Ape",
+        "observacao_6p": "",
+        "bonuses": [
+          {
+            "pieces": 2,
+            "stat": "stamina_recovery",
+            "label": "Recuperação de Vigor",
+            "valor": 15.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_resilience",
+            "label": "Resiliência Máxima",
+            "valor": 24.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_load",
+            "label": "Carga Máxima",
+            "valor": 60.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "max_hp",
+            "label": "PV Max",
+            "valor": 5.0,
+            "tipo": "percent"
+          },
+          {
+            "pieces": 6,
+            "stat": "def",
+            "label": "DEF",
+            "valor": 40.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "crit_dmg_increase",
+            "label": "Aumento de Dano Crít",
+            "valor": 40.0,
+            "tipo": "percent"
+          }
+        ]
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 132.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 22.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.4,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.4,
+          "tipo": "percent"
+        },
+        "resiliência_da_cabeça": {
+          "label": "Resiliência da Cabeça",
+          "valor": 132.0,
+          "tipo": "flat"
+        }
+      },
+      "set_bonus": {
+        "set_id": "giantape",
+        "set_label": "Giant Ape",
+        "observacao_6p": "",
+        "bonuses": [
+          {
+            "pieces": 2,
+            "stat": "stamina_recovery",
+            "label": "Recuperação de Vigor",
+            "valor": 15.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_resilience",
+            "label": "Resiliência Máxima",
+            "valor": 24.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_load",
+            "label": "Carga Máxima",
+            "valor": 60.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "max_hp",
+            "label": "PV Max",
+            "valor": 5.0,
+            "tipo": "percent"
+          },
+          {
+            "pieces": 6,
+            "stat": "def",
+            "label": "DEF",
+            "valor": 40.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "crit_dmg_increase",
+            "label": "Aumento de Dano Crít",
+            "valor": 40.0,
+            "tipo": "percent"
+          }
+        ]
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 126.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 21.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 4.2,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 4.2,
+          "tipo": "percent"
+        },
+        "resiliência_da_cabeça": {
+          "label": "Resiliência da Cabeça",
+          "valor": 126.0,
+          "tipo": "flat"
+        }
+      },
+      "set_bonus": {
+        "set_id": "giantape",
+        "set_label": "Giant Ape",
+        "observacao_6p": "",
+        "bonuses": [
+          {
+            "pieces": 2,
+            "stat": "stamina_recovery",
+            "label": "Recuperação de Vigor",
+            "valor": 15.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_resilience",
+            "label": "Resiliência Máxima",
+            "valor": 24.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_load",
+            "label": "Carga Máxima",
+            "valor": 60.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "max_hp",
+            "label": "PV Max",
+            "valor": 5.0,
+            "tipo": "percent"
+          },
+          {
+            "pieces": 6,
+            "stat": "def",
+            "label": "DEF",
+            "valor": 40.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "crit_dmg_increase",
+            "label": "Aumento de Dano Crít",
+            "valor": 40.0,
+            "tipo": "percent"
+          }
+        ]
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "pv_max": {
+          "label": "PV Max",
+          "valor": 150.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 25.0,
+          "tipo": "flat"
+        },
+        "pv_max_pct": {
+          "label": "PV Max (%)",
+          "valor": 5.0,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 5.0,
+          "tipo": "percent"
+        },
+        "resiliência_da_cabeça": {
+          "label": "Resiliência da Cabeça",
+          "valor": 150.0,
+          "tipo": "flat"
+        }
+      },
+      "set_bonus": {
+        "set_id": "giantape",
+        "set_label": "Giant Ape",
+        "observacao_6p": "",
+        "bonuses": [
+          {
+            "pieces": 2,
+            "stat": "stamina_recovery",
+            "label": "Recuperação de Vigor",
+            "valor": 15.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_resilience",
+            "label": "Resiliência Máxima",
+            "valor": 24.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 4,
+            "stat": "max_load",
+            "label": "Carga Máxima",
+            "valor": 60.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "max_hp",
+            "label": "PV Max",
+            "valor": 5.0,
+            "tipo": "percent"
+          },
+          {
+            "pieces": 6,
+            "stat": "def",
+            "label": "DEF",
+            "valor": 40.0,
+            "tipo": "flat"
+          },
+          {
+            "pieces": 6,
+            "stat": "crit_dmg_increase",
+            "label": "Aumento de Dano Crít",
+            "valor": 40.0,
+            "tipo": "percent"
+          }
+        ]
+      }
+    }
+  ]
+}
