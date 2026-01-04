@@ -1,0 +1,241 @@
+{
+  "nome": "Aço. Anel de Grifo Grifo Tempestuoso Avançadas",
+  "observacao": "Aumenta a Tolerância á Radiação em 50% e reduz a Radiação corporal em 0,05 por segundo.",
+  "set_bonus": null,
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 195.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 30.5,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.0,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 6.0,
+          "tipo": "percent"
+        },
+        "crít_pct": {
+          "label": "Crít (%)",
+          "valor": 1.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 165.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 204.7,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 32.0,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "crít_pct": {
+          "label": "Crít (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 173.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 214.5,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 33.5,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.6,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 6.6,
+          "tipo": "percent"
+        },
+        "crít_pct": {
+          "label": "Crít (%)",
+          "valor": 6.6,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 181.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 224.3,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.9,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 6.9,
+          "tipo": "percent"
+        },
+        "crít_pct": {
+          "label": "Crít (%)",
+          "valor": 6.9,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 189.8,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 234.0,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 36.6,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 7.2,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 7.2,
+          "tipo": "percent"
+        },
+        "crít_pct": {
+          "label": "Crít (%)",
+          "valor": 6.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 198.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 243.7,
+          "tipo": "flat"
+        },
+        "atk": {
+          "label": "ATK",
+          "valor": 38.199999999999996,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 7.4,
+          "tipo": "percent"
+        },
+        "atk_pct": {
+          "label": "ATK (%)",
+          "valor": 1.4,
+          "tipo": "percent"
+        },
+        "crít_pct": {
+          "label": "Crít (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "resiliência_do_braço": {
+          "label": "Resiliência do Braço",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}

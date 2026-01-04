@@ -1,0 +1,271 @@
+{
+  "nome": "Aço. Armadura de Penas de Grifo Tempestuoso Avançadas",
+  "observacao": "Aumenta a Tolerância á Radiação em 50% e reduz a Radiação corporal em 0,05 por segundo.",
+  "set_bonus": null,
+  "itens": [
+    {
+      "raridade": {
+        "id": "common",
+        "label": "Comum",
+        "ordem": 1
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 470.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 30.5,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.0,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 6.0,
+          "tipo": "percent"
+        },
+        "resistência_a_crít_pct": {
+          "label": "Resistência a Crít (%)",
+          "valor": 6.0,
+          "tipo": "percent"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 440.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "good",
+        "label": "Boa",
+        "ordem": 2
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 493.5,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 32.0,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "resistência_a_crít_pct": {
+          "label": "Resistência a Crít (%)",
+          "valor": 6.2,
+          "tipo": "percent"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 462.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "fine",
+        "label": "Fina",
+        "ordem": 3
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 517.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 33.5,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.6,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 6.6,
+          "tipo": "percent"
+        },
+        "resistência_a_crít_pct": {
+          "label": "Resistência a Crít (%)",
+          "valor": 6.6,
+          "tipo": "percent"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 484.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "excellent",
+        "label": "Excelente",
+        "ordem": 4
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 540.5,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 35.0,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 6.9,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 6.9,
+          "tipo": "percent"
+        },
+        "resistência_a_crít_pct": {
+          "label": "Resistência a Crít (%)",
+          "valor": 6.9,
+          "tipo": "percent"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 506.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "epic",
+        "label": "Épica",
+        "ordem": 5
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 564.0,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 36.6,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 7.2,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 7.2,
+          "tipo": "percent"
+        },
+        "resistência_a_crít_pct": {
+          "label": "Resistência a Crít (%)",
+          "valor": 7.2,
+          "tipo": "percent"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 528.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "raridade": {
+        "id": "legendary",
+        "label": "Lendária",
+        "ordem": 6
+      },
+      "stats": {
+        "pv_máx": {
+          "label": "PV Máx",
+          "valor": 587.5,
+          "tipo": "flat"
+        },
+        "def": {
+          "label": "DEF",
+          "valor": 38.199999999999996,
+          "tipo": "flat"
+        },
+        "pv_máx_pct": {
+          "label": "PV Máx (%)",
+          "valor": 7.4,
+          "tipo": "percent"
+        },
+        "def_pct": {
+          "label": "DEF (%)",
+          "valor": 7.4,
+          "tipo": "percent"
+        },
+        "resistência_a_crít_pct": {
+          "label": "Resistência a Crít (%)",
+          "valor": 7.4,
+          "tipo": "percent"
+        },
+        "coeficiente_de_som_pct": {
+          "label": "Coeficiente de Som (%)",
+          "valor": 20.0,
+          "tipo": "percent"
+        },
+        "resiliência_do_tronco": {
+          "label": "Resiliência do Tronco",
+          "valor": 550.0,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}
