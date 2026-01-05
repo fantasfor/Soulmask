@@ -1,0 +1,269 @@
+{
+  "id": "Armadura de aço Lenda",
+  "nome": "Armadura de aço Lenda",
+  "observacao": "",
+  "set_bonus": null,
+  "itens": [
+    {
+      "nome": "Traje de Aço",
+      "classificacao": "Traje",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Coeficiente de Som_percentual": {
+          "nome": "Coeficiente de Som",
+          "valor": 20.0,
+          "tipo": "percentual"
+        },
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 550.0,
+          "tipo": "flat"
+        },
+        "DEF_flat": {
+          "nome": "DEF",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "DEF_percentual": {
+          "nome": "DEF",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resistência a Crit._percentual": {
+          "nome": "Resistência a Crit.",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resiliência do Tronco_flat": {
+          "nome": "Resiliência do Tronco",
+          "valor": 550.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Anel de Aço",
+      "classificacao": "Anel",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 206.2,
+          "tipo": "flat"
+        },
+        "ATQ_flat": {
+          "nome": "ATQ",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "ATQ_percentual": {
+          "nome": "ATQ",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Crít._percentual": {
+          "nome": "Crít.",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resiliência do Braço_flat": {
+          "nome": "Resiliência do Braço",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Sapatos de Aço",
+      "classificacao": "Botas",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Coeficiente de Som_percentual": {
+          "nome": "Coeficiente de Som",
+          "valor": 40.0,
+          "tipo": "percentual"
+        },
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 137.5,
+          "tipo": "flat"
+        },
+        "DEF_flat": {
+          "nome": "DEF",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "DEF_percentual": {
+          "nome": "DEF",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Redução de Dano_percentual": {
+          "nome": "Redução de Dano",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resiliência da Perna_flat": {
+          "nome": "Resiliência da Perna",
+          "valor": 137.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Colar de Aço",
+      "classificacao": "Colar",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 206.2,
+          "tipo": "flat"
+        },
+        "ATQ_flat": {
+          "nome": "ATQ",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "ATQ_percentual": {
+          "nome": "ATQ",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Aumento de Dano Crítico_percentual": {
+          "nome": "Aumento de Dano Crítico",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resiliência da Cabeça_flat": {
+          "nome": "Resiliência da Cabeça",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Luvas de Aço",
+      "classificacao": "Luvas",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 137.5,
+          "tipo": "flat"
+        },
+        "ATQ_flat": {
+          "nome": "ATQ",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "ATQ_percentual": {
+          "nome": "ATQ",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Aumento de Dano_percentual": {
+          "nome": "Aumento de Dano",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resiliência do Braço_flat": {
+          "nome": "Resiliência do Braço",
+          "valor": 137.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Calças de Aço",
+      "classificacao": "Calças",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Coeficiente de Som_percentual": {
+          "nome": "Coeficiente de Som",
+          "valor": 20.0,
+          "tipo": "percentual"
+        },
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 412.5,
+          "tipo": "flat"
+        },
+        "DEF_flat": {
+          "nome": "DEF",
+          "valor": 34.4,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "DEF_percentual": {
+          "nome": "DEF",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Redução de Dano Crítico_percentual": {
+          "nome": "Redução de Dano Crítico",
+          "valor": 6.2,
+          "tipo": "percentual"
+        },
+        "Resiliência da Perna_flat": {
+          "nome": "Resiliência da Perna",
+          "valor": 412.5,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}
