@@ -1,0 +1,276 @@
+{
+  "id": "Aço. Armadura do Sapo Avançada Lenda",
+  "nome": "Aço. Armadura do Sapo Avançada Lenda",
+  "observacao": "Aumenta a Tolerância a Veneno em 50% e reduz o Veneno Corporal em 0,05 por segundo.",
+  "set_bonus": [
+    "Tolerância a Veneno: 25% (2 peça(s))",
+    "DEF de Red. de Vigor: 25% (4 peça(s))",
+    "Carga Máxima: 50 (4 peça(s))",
+    "Resiliência Máxima: 75 (6 peça(s))",
+    "Isolamento Térmico: 30 (6 peça(s))",
+    "DEF: 45 (6 peça(s))"
+  ],
+  "itens": [
+    {
+      "nome": "Aço. Luvas de Garra de Sapo Avançadas",
+      "classificacao": "Luvas",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 175.0,
+          "tipo": "flat"
+        },
+        "ATQ_flat": {
+          "nome": "ATQ",
+          "valor": 38.2,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "ATQ_percentual": {
+          "nome": "ATQ",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Aumento de Dano_percentual": {
+          "nome": "Aumento de Dano",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Resiliência do Braço_flat": {
+          "nome": "Resiliência do Braço",
+          "valor": 137.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Aço. Anel de Osso de Sapo Avançado",
+      "classificacao": "Anel",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 243.7,
+          "tipo": "flat"
+        },
+        "ATQ_flat": {
+          "nome": "ATQ",
+          "valor": 38.2,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "ATQ_percentual": {
+          "nome": "ATQ",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Crít._percentual": {
+          "nome": "Crít.",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Resiliência do Braço_flat": {
+          "nome": "Resiliência do Braço",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Aço. Colar de Osso de Sapo Avançado",
+      "classificacao": "Colar",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 243.7,
+          "tipo": "flat"
+        },
+        "ATQ_flat": {
+          "nome": "ATQ",
+          "valor": 38.2,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "ATQ_percentual": {
+          "nome": "ATQ",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Aumento de Dano Crít._percentual": {
+          "nome": "Aumento de Dano Crít.",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Resiliência da Cabeça_flat": {
+          "nome": "Resiliência da Cabeça",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Aço. Armadura de Couro de Sapo Avançada",
+      "classificacao": "Traje",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 587.5,
+          "tipo": "flat"
+        },
+        "DEF_flat": {
+          "nome": "DEF",
+          "valor": 38.2,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "DEF_percentual": {
+          "nome": "DEF",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Resistência a Crít._percentual": {
+          "nome": "Resistência a Crít.",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Coeficiente de Som_percentual": {
+          "nome": "Coeficiente de Som",
+          "valor": 20.0,
+          "tipo": "percentual"
+        },
+        "Resiliência do Tronco_flat": {
+          "nome": "Resiliência do Tronco",
+          "valor": 550.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Aço. Botas de Couro de Sapo Avançadas",
+      "classificacao": "Botas",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 175.0,
+          "tipo": "flat"
+        },
+        "DEF_flat": {
+          "nome": "DEF",
+          "valor": 38.2,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "DEF_percentual": {
+          "nome": "DEF",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Redução de Dano_percentual": {
+          "nome": "Redução de Dano",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Coeficiente de Som_percentual": {
+          "nome": "Coeficiente de Som",
+          "valor": 40.0,
+          "tipo": "percentual"
+        },
+        "Resiliência da Perna_flat": {
+          "nome": "Resiliência da Perna",
+          "valor": 137.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Aço. Calças de Couro de Sapo Avançadas",
+      "classificacao": "Calças",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "PV Máximo_flat": {
+          "nome": "PV Máximo",
+          "valor": 450.0,
+          "tipo": "flat"
+        },
+        "DEF_flat": {
+          "nome": "DEF",
+          "valor": 38.2,
+          "tipo": "flat"
+        },
+        "PV Máximo_percentual": {
+          "nome": "PV Máximo",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "DEF_percentual": {
+          "nome": "DEF",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Redução de Dano Crítico_percentual": {
+          "nome": "Redução de Dano Crítico",
+          "valor": 7.4,
+          "tipo": "percentual"
+        },
+        "Coeficiente de Som_percentual": {
+          "nome": "Coeficiente de Som",
+          "valor": 20.0,
+          "tipo": "percentual"
+        },
+        "Resiliência da Perna_flat": {
+          "nome": "Resiliência da Perna",
+          "valor": 412.5,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}

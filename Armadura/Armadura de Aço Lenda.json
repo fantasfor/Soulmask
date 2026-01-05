@@ -1,0 +1,104 @@
+{
+  "id": "Armadura de Aço Lenda",
+  "nome": "Armadura de Aço Lenda",
+  "observacao": "",
+  "set_bonus": null,
+  "itens": [
+    {
+      "nome": "Traje de Aço",
+      "classificacao": "Traje",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Resiliência do Tronco_flat": {
+          "nome": "Resiliência do Tronco",
+          "valor": 550.0,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Anel de Aço",
+      "classificacao": "Anel",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Resiliência do Braço_flat": {
+          "nome": "Resiliência do Braço",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Sapatos de Aço",
+      "classificacao": "Sapatos",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Resiliência da Perna_flat": {
+          "nome": "Resiliência da Perna",
+          "valor": 137.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Colar de Aço",
+      "classificacao": "Colar",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Resiliência da Cabeça_flat": {
+          "nome": "Resiliência da Cabeça",
+          "valor": 206.2,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Luvas de Aço",
+      "classificacao": "Luvas",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Resiliência do Braço_flat": {
+          "nome": "Resiliência do Braço",
+          "valor": 137.5,
+          "tipo": "flat"
+        }
+      }
+    },
+    {
+      "nome": "Calças de Aço",
+      "classificacao": "Calças",
+      "raridade": {
+        "id": "Lenda",
+        "label": "Lenda",
+        "ordem": 6
+      },
+      "stats": {
+        "Resiliência da Perna_flat": {
+          "nome": "Resiliência da Perna",
+          "valor": 412.5,
+          "tipo": "flat"
+        }
+      }
+    }
+  ]
+}
