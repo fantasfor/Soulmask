@@ -1,0 +1,114 @@
+{
+  "id": "Sapo da Névoa Avançada",
+  "nome": "Sapo da Névoa Avançada",
+  "observacao": "Aumenta a Tolerância a Veneno em 50% e reduz o Veneno Corporal em 0,05 por segundo.",
+  "set_bonus": [
+    "Tolerância a Veneno: 25% (2 peça(s))",
+    "DEF de Red. de Vigor: 25% (4 peça(s))",
+    "Carga Máxima: 50 (4 peça(s))",
+    "Resiliência Máxima: 75 (6 peça(s))",
+    "Isolamento Térmico: 30 (6 peça(s))",
+    "DEF: 45 (6 peça(s))"
+  ],
+  "itens": [
+    {
+      "nome": "Aço. Luvas de Garra de Sapo Avançadas",
+      "raridade": {
+        "id": "common",
+        "label": "Lenda",
+        "ordem": 1
+      },
+      "stats": {
+        "PV Máximo": 175.0,
+        "ATQ": 38.199999999999996,
+        "PV Máximo%": 7.4,
+        "ATQ%": 7.4,
+        "Aumento de Dano%": 7.4,
+        "Resiliência do Braço": 137.5
+      }
+    },
+    {
+      "nome": "Aço. Anel de Osso de Sapo Avançado",
+      "raridade": {
+        "id": "common",
+        "label": "Lenda",
+        "ordem": 1
+      },
+      "stats": {
+        "PV Máximo": 243.7,
+        "ATQ": 38.199999999999996,
+        "PV Máximo%": 7.4,
+        "ATQ%": 7.4,
+        "Crít.%": 7.4,
+        "Resiliência do Braço": 206.2
+      }
+    },
+    {
+      "nome": "Aço. Colar de Osso de Sapo Avançado",
+      "raridade": {
+        "id": "common",
+        "label": "Lenda",
+        "ordem": 1
+      },
+      "stats": {
+        "PV Máximo": 243.7,
+        "ATQ": 38.199999999999996,
+        "PV Máximo%": 7.4,
+        "ATQ%": 7.4,
+        "Aumento de Dano Crít.%": 7.4,
+        "Resiliência da Cabeça": 206.2
+      }
+    },
+    {
+      "nome": "Aço. Armadura de Couro de Sapo Avançada",
+      "raridade": {
+        "id": "common",
+        "label": "Lenda",
+        "ordem": 1
+      },
+      "stats": {
+        "PV Máximo": 587.5,
+        "DEF": 38.199999999999996,
+        "PV Máximo%": 7.4,
+        "DEF%": 7.4,
+        "Resistência a Crít.%": 7.4,
+        "Coeficiente de Som%": 20.0,
+        "Resiliência do Tronco": 550.0
+      }
+    },
+    {
+      "nome": "Aço. Botas de Couro de Sapo Avançadas",
+      "raridade": {
+        "id": "common",
+        "label": "Lenda",
+        "ordem": 1
+      },
+      "stats": {
+        "PV Máximo": 175.0,
+        "DEF": 38.199999999999996,
+        "PV Máximo%": 7.4,
+        "DEF%": 7.4,
+        "Redução de Dano%": 7.4,
+        "Coeficiente de Som%": 40.0,
+        "Resiliência da Perna": 137.5
+      }
+    },
+    {
+      "nome": "Aço. Calças de Couro de Sapo Avançadas",
+      "raridade": {
+        "id": "common",
+        "label": "Lenda",
+        "ordem": 1
+      },
+      "stats": {
+        "PV Máximo": 450.0,
+        "DEF": 38.199999999999996,
+        "PV Máximo%": 7.4,
+        "DEF%": 7.4,
+        "Redução de Dano Crítico%": 7.4,
+        "Coeficiente de Som%": 20.0,
+        "Resiliência da Perna": 412.5
+      }
+    }
+  ]
+}
