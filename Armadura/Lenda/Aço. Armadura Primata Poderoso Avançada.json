@@ -9,7 +9,6 @@
     "PV Máximo: 7,5% (6 peça(s))",
     "DEF: 60 (6 peça(s))",
     "Aumento de Dano Crít.: 48% (6 peça(s))",
-    "Aumento de Dano Crit.: 48% (6 peça(s))"
   ],
   "itens": [
     {
@@ -274,4 +273,5 @@
       }
     }
   ]
+
 }
